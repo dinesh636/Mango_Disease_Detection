@@ -1,5 +1,4 @@
-# Model files (too large for GitHub)
-*.h5
+# Model files
 *.hdf5
 *.pkl
 *.pickle
