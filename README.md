@@ -228,6 +228,16 @@ Accuracy: (insert your score here)
 
 Loss: (insert value)
 
+
+
+
+
+
+
+
+
+Our Website Link : https://mangoplantdisease.streamlit.app/
+
 Confusion Matrix: (generated in notebook)
 
 DRIAF outperformed individual models (DenseNet, ResNet, Inception)
