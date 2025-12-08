@@ -235,11 +235,12 @@ Loss: (insert value)
 
 
 
-
-Our Website Link : https://mangoplantdisease.streamlit.app/
-
 Confusion Matrix: (generated in notebook)
 
 DRIAF outperformed individual models (DenseNet, ResNet, Inception)
+
+
+
+Our Website Link : https://mangoplantdisease.streamlit.app/
 
 (When you provide your real metrics, I will fill this section.)
