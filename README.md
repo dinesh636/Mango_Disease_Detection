@@ -8,14 +8,7 @@ A Deep Learning–powered system for early detection of mango crop diseases.
 
 This project aims to detect mango leaf and fruit diseases using a custom hybrid deep learning model (DRIAF) that combines:
 
-DenseNet121
-
-ResNet50
-
-InceptionV3
-
-
-
+DenseNet121 , ResNet50 , InceptionV3 were 
 These three feature extractors are fused (concatenated) to form the DRIAF Hybrid Model, enabling high-accuracy multi-disease classification.
 
 Farmers or researchers can upload an image of a mango leaf or fruit, and the system will predict:
